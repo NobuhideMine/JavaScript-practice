@@ -21,3 +21,12 @@ while(num < max){
 }
 
 alert('2を掛け続けて' + max + 'を超えるのに必要だった回数は' + count + '回です');
+
+//確認問題
+let a = 5;
+let b = 9;
+
+alert(a + b);
+alert(a - b);
+alert(a * b);
+alert(a / b);
